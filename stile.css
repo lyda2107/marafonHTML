@@ -1,0 +1,31 @@
+table {
+    width: 830px;
+    height: 500px;
+    border: 2px solid green;
+    border-collapse: collapse;
+    text-align: center;
+}
+ td {
+     border: 1px solid rgb(206, 164, 164);
+      transition: 300ms;
+ }
+ td:hover {
+     background: cadetblue;
+     color: goldenrod;
+    
+ }
+ .name {
+     font-size: 30px;
+ }
+ .name-kyrs {
+     color: rgb(13, 13, 141);
+     font-size: 25px;
+     width: 415px;
+
+ }
+ .variant {
+     width: 205px;
+ }
+ .plus {
+     text-align: left;
+ }
